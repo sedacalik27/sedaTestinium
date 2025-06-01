@@ -1,0 +1,166 @@
+01.06.2025 12:37:13 INFO  api.C01PostBoard Board oluşturuldu.
+01.06.2025 12:37:14 INFO  api.C01PostBoard Oluşturulan board id si alındı. Board ID: 683c1f480abc677b5f479691
+01.06.2025 12:37:14 INFO  api.C01PostBoard Board oluşturulduğu doğrulandı.
+01.06.2025 12:37:14 INFO  api.C02PostList List oluşturuldu.
+01.06.2025 12:37:14 INFO  api.C02PostList Oluşturulan list id si alındı. List ID: 683c1f4a15b2f2a352f9848e
+01.06.2025 12:37:14 INFO  api.C02PostList List oluşturulduğu doğrulandı.
+01.06.2025 12:37:15 INFO  api.C03PostCard Card1 oluşturuldu.
+01.06.2025 12:37:15 INFO  api.C03PostCard Oluşturulan card1 id si alındı. Card1 ID: 683c1f4a32fb79c625ebb1d2
+01.06.2025 12:37:15 INFO  api.C03PostCard Card1 oluşturulduğu doğrulandı.
+01.06.2025 12:37:15 INFO  api.C03PostCard Card2 oluşturuldu.
+01.06.2025 12:37:15 INFO  api.C03PostCard Oluşturulan card2 id si alındı. Card2 ID: 683c1f4bf849c0dbe202705a
+01.06.2025 12:37:15 INFO  api.C03PostCard Card2 oluşturulduğu doğrulandı.
+01.06.2025 12:37:16 INFO  api.C04PutCard Rastgele seçilen card ın ismi değiştirildi. Card ID : 683c1f4a32fb79c625ebb1d2
+01.06.2025 12:37:16 INFO  api.C04PutCard Rastgele bir card ismi değiştirildiği doğrulandı.
+01.06.2025 12:37:16 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c1f4a32fb79c625ebb1d2
+01.06.2025 12:37:16 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:37:17 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c1f4bf849c0dbe202705a
+01.06.2025 12:37:17 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:37:19 INFO  api.C06DeleteBoard Oluşturulan board silindi. Board ID: 683c1f480abc677b5f479691
+01.06.2025 12:37:19 INFO  api.C06DeleteBoard Oluşturulan board un silindiği doğrulandı.
+01.06.2025 12:43:58 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 12:43:59 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 12:44:01 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 12:44:03 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 12:44:03 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 12:44:06 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 12:44:11 INFO  ui.BeymenTest Sonuca göre sergilenen ürünlerden rastgele bir ürün seçildi.
+01.06.2025 12:44:11 INFO  ui.BeymenTest Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazdırıldı.
+01.06.2025 12:44:12 INFO  ui.BeymenTest Seçilen ürün sepete eklendi.
+01.06.2025 12:44:13 INFO  ui.BeymenTest Sepede gidildi.
+01.06.2025 12:44:15 INFO  ui.BeymenTest Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+01.06.2025 12:45:13 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 12:45:13 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 12:45:16 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 12:45:18 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 12:45:18 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 12:45:21 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 12:45:26 INFO  ui.BeymenTest Sonuca göre sergilenen ürünlerden rastgele bir ürün seçildi.
+01.06.2025 12:45:26 INFO  ui.BeymenTest Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazdırıldı.
+01.06.2025 12:45:26 INFO  ui.BeymenTest Seçilen ürün sepete eklendi.
+01.06.2025 12:45:28 INFO  ui.BeymenTest Sepede gidildi.
+01.06.2025 12:45:29 INFO  ui.BeymenTest Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+01.06.2025 12:45:30 INFO  ui.BeymenTest Adet arttırılarak ürün adedinin 2 olduğu doğrulandı.
+01.06.2025 12:45:30 INFO  ui.BeymenTest Ürün sepetten silindi.
+01.06.2025 12:45:31 INFO  ui.BeymenTest Sepetin boş olduğu kontrol edildi.
+01.06.2025 12:45:57 INFO  api.C01PostBoard Board oluşturuldu.
+01.06.2025 12:45:58 INFO  api.C01PostBoard Oluşturulan board id si alındı. Board ID: 683c21551ea77690e7422976
+01.06.2025 12:45:58 INFO  api.C01PostBoard Board oluşturulduğu doğrulandı.
+01.06.2025 12:45:59 INFO  api.C02PostList List oluşturuldu.
+01.06.2025 12:45:59 INFO  api.C02PostList Oluşturulan list id si alındı. List ID: 683c21575b86c32c8311dd95
+01.06.2025 12:45:59 INFO  api.C02PostList List oluşturulduğu doğrulandı.
+01.06.2025 12:45:59 INFO  api.C03PostCard Card1 oluşturuldu.
+01.06.2025 12:45:59 INFO  api.C03PostCard Oluşturulan card1 id si alındı. Card1 ID: 683c2157a67ee89e7894574f
+01.06.2025 12:45:59 INFO  api.C03PostCard Card1 oluşturulduğu doğrulandı.
+01.06.2025 12:46:00 INFO  api.C03PostCard Card2 oluşturuldu.
+01.06.2025 12:46:00 INFO  api.C03PostCard Oluşturulan card2 id si alındı. Card2 ID: 683c2157f2bdeb16c74af757
+01.06.2025 12:46:00 INFO  api.C03PostCard Card2 oluşturulduğu doğrulandı.
+01.06.2025 12:46:00 INFO  api.C04PutCard Rastgele seçilen card ın ismi değiştirildi. Card ID : 683c2157f2bdeb16c74af757
+01.06.2025 12:46:00 INFO  api.C04PutCard Rastgele bir card ismi değiştirildiği doğrulandı.
+01.06.2025 12:46:01 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c2157a67ee89e7894574f
+01.06.2025 12:46:01 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:46:02 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c2157f2bdeb16c74af757
+01.06.2025 12:46:02 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:46:03 INFO  api.C06DeleteBoard Oluşturulan board silindi. Board ID: 683c21551ea77690e7422976
+01.06.2025 12:46:03 INFO  api.C06DeleteBoard Oluşturulan board un silindiği doğrulandı.
+01.06.2025 12:48:13 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 12:48:17 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 12:48:19 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 12:48:22 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 12:48:22 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 12:48:25 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 12:49:26 INFO  ui.BeymenTest Sonuca göre sergilenen ürünlerden rastgele bir ürün seçildi.
+01.06.2025 12:49:47 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 12:49:48 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 12:49:50 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 12:49:52 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 12:49:52 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 12:51:19 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 12:51:36 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 12:51:37 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 12:51:39 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 12:51:41 INFO  api.C01PostBoard Board oluşturuldu.
+01.06.2025 12:51:41 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 12:51:41 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 12:51:43 INFO  api.C01PostBoard Oluşturulan board id si alındı. Board ID: 683c22ad64673804b0f74433
+01.06.2025 12:51:43 INFO  api.C01PostBoard Board oluşturulduğu doğrulandı.
+01.06.2025 12:51:43 INFO  api.C02PostList List oluşturuldu.
+01.06.2025 12:51:43 INFO  api.C02PostList Oluşturulan list id si alındı. List ID: 683c22af9ae495670a4da2dc
+01.06.2025 12:51:43 INFO  api.C02PostList List oluşturulduğu doğrulandı.
+01.06.2025 12:51:44 INFO  api.C03PostCard Card1 oluşturuldu.
+01.06.2025 12:51:44 INFO  api.C03PostCard Oluşturulan card1 id si alındı. Card1 ID: 683c22af9c6e193d33b76b2d
+01.06.2025 12:51:44 INFO  api.C03PostCard Card1 oluşturulduğu doğrulandı.
+01.06.2025 12:51:44 INFO  api.C03PostCard Card2 oluşturuldu.
+01.06.2025 12:51:44 INFO  api.C03PostCard Oluşturulan card2 id si alındı. Card2 ID: 683c22b09ea75386ec098c40
+01.06.2025 12:51:44 INFO  api.C03PostCard Card2 oluşturulduğu doğrulandı.
+01.06.2025 12:51:45 INFO  api.C04PutCard Rastgele seçilen card ın ismi değiştirildi. Card ID : 683c22af9c6e193d33b76b2d
+01.06.2025 12:51:45 INFO  api.C04PutCard Rastgele bir card ismi değiştirildiği doğrulandı.
+01.06.2025 12:51:45 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 12:51:45 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c22af9c6e193d33b76b2d
+01.06.2025 12:51:45 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:51:46 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c22b09ea75386ec098c40
+01.06.2025 12:51:46 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:51:48 INFO  api.C06DeleteBoard Oluşturulan board silindi. Board ID: 683c22ad64673804b0f74433
+01.06.2025 12:51:48 INFO  api.C06DeleteBoard Oluşturulan board un silindiği doğrulandı.
+01.06.2025 12:51:50 INFO  ui.BeymenTest Sonuca göre sergilenen ürünlerden rastgele bir ürün seçildi.
+01.06.2025 12:51:50 INFO  ui.BeymenTest Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazdırıldı.
+01.06.2025 12:51:51 INFO  ui.BeymenTest Seçilen ürün sepete eklendi.
+01.06.2025 12:51:52 INFO  ui.BeymenTest Sepede gidildi.
+01.06.2025 12:51:54 INFO  ui.BeymenTest Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+01.06.2025 12:51:55 INFO  ui.BeymenTest Adet arttırılarak ürün adedinin 2 olduğu doğrulandı.
+01.06.2025 12:51:55 INFO  ui.BeymenTest Ürün sepetten silindi.
+01.06.2025 12:51:56 INFO  ui.BeymenTest Sepetin boş olduğu kontrol edildi.
+01.06.2025 12:55:56 INFO  api.C01PostBoard Board oluşturuldu.
+01.06.2025 12:55:58 INFO  api.C01PostBoard Oluşturulan board id si alındı. Board ID: 683c23ac823cd1be16b5fc87
+01.06.2025 12:55:58 INFO  api.C01PostBoard Board oluşturulduğu doğrulandı.
+01.06.2025 12:55:58 INFO  api.C02PostList List oluşturuldu.
+01.06.2025 12:55:58 INFO  api.C02PostList Oluşturulan list id si alındı. List ID: 683c23ae4aa67f373c800dfb
+01.06.2025 12:55:58 INFO  api.C02PostList List oluşturulduğu doğrulandı.
+01.06.2025 12:55:59 INFO  api.C03PostCard Card1 oluşturuldu.
+01.06.2025 12:55:59 INFO  api.C03PostCard Oluşturulan card1 id si alındı. Card1 ID: 683c23aec6585c3b13b1527b
+01.06.2025 12:55:59 INFO  api.C03PostCard Card1 oluşturulduğu doğrulandı.
+01.06.2025 12:55:59 INFO  api.C03PostCard Card2 oluşturuldu.
+01.06.2025 12:55:59 INFO  api.C03PostCard Oluşturulan card2 id si alındı. Card2 ID: 683c23af1ff40113b8ea430f
+01.06.2025 12:55:59 INFO  api.C03PostCard Card2 oluşturulduğu doğrulandı.
+01.06.2025 12:55:59 INFO  api.C04PutCard Rastgele seçilen card ın ismi değiştirildi. Card ID : 683c23aec6585c3b13b1527b
+01.06.2025 12:55:59 INFO  api.C04PutCard Rastgele bir card ismi değiştirildiği doğrulandı.
+01.06.2025 12:56:00 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c23aec6585c3b13b1527b
+01.06.2025 12:56:00 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:56:01 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c23af1ff40113b8ea430f
+01.06.2025 12:56:01 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 12:56:03 INFO  api.C06DeleteBoard Oluşturulan board silindi. Board ID: 683c23ac823cd1be16b5fc87
+01.06.2025 12:56:03 INFO  api.C06DeleteBoard Oluşturulan board un silindiği doğrulandı.
+01.06.2025 13:38:26 INFO  api.C01PostBoard Board oluşturuldu.
+01.06.2025 13:38:28 INFO  api.C01PostBoard Oluşturulan board id si alındı. Board ID: 683c2da3e3c21d12bc8c51d4
+01.06.2025 13:38:28 INFO  api.C01PostBoard Board oluşturulduğu doğrulandı.
+01.06.2025 13:38:28 INFO  api.C02PostList List oluşturuldu.
+01.06.2025 13:38:28 INFO  api.C02PostList Oluşturulan list id si alındı. List ID: 683c2da53d48e7e7c498cb8c
+01.06.2025 13:38:28 INFO  api.C02PostList List oluşturulduğu doğrulandı.
+01.06.2025 13:38:28 INFO  api.C03PostCard Card1 oluşturuldu.
+01.06.2025 13:38:28 INFO  api.C03PostCard Oluşturulan card1 id si alındı. Card1 ID: 683c2da518e302b6c9b0eed3
+01.06.2025 13:38:28 INFO  api.C03PostCard Card1 oluşturulduğu doğrulandı.
+01.06.2025 13:38:29 INFO  api.C03PostCard Card2 oluşturuldu.
+01.06.2025 13:38:29 INFO  api.C03PostCard Oluşturulan card2 id si alındı. Card2 ID: 683c2da5560ed974321fb00e
+01.06.2025 13:38:29 INFO  api.C03PostCard Card2 oluşturulduğu doğrulandı.
+01.06.2025 13:38:29 INFO  api.C04PutCard Rastgele seçilen card ın ismi değiştirildi. Card ID : 683c2da518e302b6c9b0eed3
+01.06.2025 13:38:29 INFO  api.C04PutCard Rastgele bir card ismi değiştirildiği doğrulandı.
+01.06.2025 13:38:30 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c2da518e302b6c9b0eed3
+01.06.2025 13:38:30 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 13:38:31 INFO  api.C05DeleteCard Oluşturulan card lar silindi. Cards ID: 683c2da5560ed974321fb00e
+01.06.2025 13:38:31 INFO  api.C05DeleteCard Oluşturalan card ların silindiği doğrulandı.
+01.06.2025 13:38:32 INFO  api.C06DeleteBoard Oluşturulan board silindi. Board ID: 683c2da3e3c21d12bc8c51d4
+01.06.2025 13:38:32 INFO  api.C06DeleteBoard Oluşturulan board un silindiği doğrulandı.
+01.06.2025 13:38:57 INFO  ui.BeymenTest //-www.beymen.com sitesi açıldı.
+01.06.2025 13:38:58 INFO  ui.BeymenTest Ekrana gelen cookie ve cinsiyet seçim ekranı kapatıldı.
+01.06.2025 13:39:00 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “şort” kelimesi girildi.
+01.06.2025 13:39:02 INFO  ui.BeymenTest Arama kutucuğuna girilen “şort” kelimesi silindi.
+01.06.2025 13:39:02 INFO  ui.BeymenTest Arama kutucuğuna excel den alınan datayla “gömlek” kelimesi girildi.
+01.06.2025 13:39:05 INFO  ui.BeymenTest Klavye üzerinden “enter” tuşuna bastırıldı.
+01.06.2025 13:39:09 INFO  ui.BeymenTest Sonuca göre sergilenen ürünlerden rastgele bir ürün seçildi.
+01.06.2025 13:39:09 INFO  ui.BeymenTest Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazdırıldı.
+01.06.2025 13:39:09 INFO  ui.BeymenTest Seçilen ürün sepete eklendi.
+01.06.2025 13:39:11 INFO  ui.BeymenTest Sepede gidildi.
+01.06.2025 13:39:12 INFO  ui.BeymenTest Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
+01.06.2025 13:39:13 INFO  ui.BeymenTest Adet arttırılarak ürün adedinin 2 olduğu doğrulandı.
+01.06.2025 13:39:13 INFO  ui.BeymenTest Ürün sepetten silindi.
+01.06.2025 13:39:14 INFO  ui.BeymenTest Sepetin boş olduğu kontrol edildi.
